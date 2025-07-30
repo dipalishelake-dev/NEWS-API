@@ -1,6 +1,6 @@
 
 import{useEffect,useState} from "react"
-import NewsItems from "./newsItems";
+import NewsItems from "./NewsItems";
 
 
 const Newsboard =() => {
