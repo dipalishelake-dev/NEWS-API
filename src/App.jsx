@@ -1,7 +1,7 @@
 
 import Navbar from"./components/Navbar"
-import Newsboard from "./components/newsboard"
-
+// import Newsboard from "./components/Newsboard"
+import Newsboard from "./components/Newsboard"
 const App = () => {
   return (
     <div>
